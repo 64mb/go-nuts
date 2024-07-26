@@ -10,7 +10,7 @@ import (
 	"golang.org/x/text/encoding"
 	"golang.org/x/text/transform"
 
-	"github.com/motemen/go-nuts/chardet"
+	"github.com/64mb/go-nuts/chardet"
 )
 
 // CharsetTransport is an http.Transport which automatically decodes resp.Body by its charset.

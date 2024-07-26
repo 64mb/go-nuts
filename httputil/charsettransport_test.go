@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/motemen/go-nuts/chardet"
+	"github.com/64mb/go-nuts/chardet"
 )
 
 func TestCharsetTransport(t *testing.T) {

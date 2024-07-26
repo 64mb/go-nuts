@@ -1,4 +1,4 @@
-module github.com/motemen/go-nuts
+module github.com/64mb/go-nuts
 
 go 1.16
 
